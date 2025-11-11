@@ -1,0 +1,51 @@
+Timestamp,Name,Email,Age group?,Gender,Place of stay?,Any current loans?,"If loan is taken, loan type?","If any loans taken, current interest rate?",Loan source?,Income details [Primary Income source],Income details [Secondary Income source],Income details (per annum)
+08/05/2023 23:16:04,Mahamaya Panda,mahamaya.panda@sjsu.edu,20-30,,San Jose,No,NA,,Commericial,None,Other,NA
+08/05/2023 23:17:43,Aradhya Alva Rathnakar,lalaland1234+-*sjsu.edu,20-30,,1234,Yes,Education loan,10%,Credit Union,Government Employee,None,2 billion >?
+08/05/2023 23:26:05,Saketh,reddysakethreddy.chappidi@sjsu.edu,20-30,,Sanjose,Yes,Education loan,10%,Credit Union,Government Employee,Self Employed,50000
+09/05/2023 22:52:41,Shashi Kumar,shashikumar.kadarimallikarjuna@sjsu.edu,20-30,Male,United States of America,Yes,Car Loan,<7%,Credit Union,Private Employee,Other,50000
+09/05/2023 22:53:55,Milan,milan123@gmail.com,20-30,Male,United States of America,Yes,Education Loan,10%,Commericial,Other,None,20000
+09/05/2023 22:54:57,Jack,jackrocket@gmail.com,30-40,Male,United States of America,Yes,Education Loan,12%,Commericial,Private Employee,None,32000
+09/05/2023 22:55:58,Daniel Lee,Danny.Lee@sjsu.edu,20-30,Male,United States of America,Yes,Education Loan,8%,Credit Union,Private Employee,None,10000
+09/05/2023 22:56:54,Dhiren L,dlal1222@gmail.com,20-30,Male,United States of America,Yes,Personal Loan,>12%,Commericial,Self Employed,None,60000
+09/05/2023 22:57:54,Jessica Holmes,Jessica.holmes@sjsu.edu,20-30,Female,United States of America,Yes,Education Loan,11%,Commericial,Private Employee,None,20000
+09/05/2023 22:58:41,Christopher Tan,chris.tan@gmail.com,20-30,Male,United States of America,Yes,Education Loan,11%,Commericial,Private Employee,None,15000
+09/05/2023 22:59:25,Krina Marinez,Krina.Marinez@sjsu.edu,20-30,Female,United States of America,Yes,Education Loan,9%,Commericial,Self Employed,Other,8000
+09/05/2023 23:00:10,Jack Tran,Jack.Tran@sjsu.edu,30-40,Male,United States of America,Yes,Education Loan,12%,Commericial,Private Employee,None,27000
+09/05/2023 23:01:57,Leslie Kao,Leslie.kao@sjsu.edu,20-30,Female,United States of America,Yes,Education Loan,8%,Credit Union,Private Employee,None,40000
+09/05/2023 23:02:54,Judah marinez,judah.mar@gmail.com,20-30,Male,United States of America,Yes,Personal Loan,>12%,Commericial,Self Employed,Other,23000
+09/05/2023 23:03:39,Wafia Mani,wafy.mani@gmail.com,20-30,Female,United States of America,Yes,Education Loan,11%,Commericial,Private Employee,Other,35000
+09/05/2023 23:04:18,Emauel,manny.gari@sjsu.edu,20-30,Male,United States of America,Yes,Education Loan,10%,Commericial,Private Employee,None,45000
+09/05/2023 23:05:06,Kishan,k.manny@gmail.com,20-30,Male,United States of America,Yes,Personal Loan,12%,Commericial,Self Employed,None,32000
+09/05/2023 23:05:55,Piyanshika,p.anshika@gmail.com,20-30,Female,United States of America,Yes,Car Loan,<7%,Credit Union,Private Employee,None,60000
+09/05/2023 23:06:37,Anne Lee,Anne.Lee@sjsu.edu,20-30,Female,United States of America,Yes,Education Loan,11%,Commericial,Private Employee,None,22000
+10/05/2023 08:54:32,Bhargav Gavaskar,bhargav1995@gmail.com,20-30,Male,United States of America,Yes,Personal Loan,12%,Commericial,Private Employee,None,70000
+10/05/2023 09:00:14,Kamini Patel,kamini.patel.881@gmail.com,30-40,Female,Outside Unites States,Yes,Education Loan,>12%,Commericial,Private Employee,Self Employed,60000
+10/05/2023 09:35:16,Varshitha Gowda,varubanaswadi980067@gmail.com,20-30,Female,United States of America,Yes,Education Loan,8%,Credit Union,Other,None,0
+10/05/2023 09:36:32,Prajwal Jain,prajwaljain.hulk@gmail.com,20-30,Male,United States of America,Yes,Education Loan,10%,Commericial,None,Other,50000
+10/05/2023 09:37:51,Karthik Shetty,karthikrockz1999@gmail.com,20-30,Male,United States of America,Yes,Education Loan,11%,Commericial,None,Other,60000
+10/05/2023 09:39:41,Maneesh M,maneeshreaper007@gmail.com,20-30,Male,United States of America,Yes,Education Loan,10%,Commericial,Other,None,30000
+10/05/2023 09:43:24,Shruthi Poojari,shruthi.barbiedoll@gmail.com,20-30,Female,United States of America,Yes,Education Loan,10%,Credit Union,None,Other,40000
+10/05/2023 09:46:04,Darshan Kumar,darshankumar300@yahoo.com,20-30,Male,Outside Unites States,Yes,Personal Loan,>12%,Commericial,Government Employee,Self Employed,80000
+10/05/2023 09:47:50,Priyanka Patel,priyanka.patel12345@gmail.com,20-30,Female,United States of America,Yes,Education Loan,12%,Commericial,None,Other,30000
+10/05/2023 09:53:16,Nishanth Bhandary,nishanthnish18769@gmail.com,20-30,Male,United States of America,Yes,Personal Loan,9%,Credit Union,None,Other,10000
+10/05/2023 10:01:50,Sudhakar Shiva,shivasudhakar.ganesha121@gmail.com,30-40,Male,Outside Unites States,Yes,Personal Loan,>12%,Commericial,Private Employee,Self Employed,10000
+10/05/2023 10:12:06,Manjunath Guppe,manjunath.dharmasthala@gmail.com,20-30,Male,Outside Unites States,No,,,Commericial,Self Employed,Other,20000
+10/05/2023 10:13:29,Ananya Gowda,ananyagowda3212@gmail.com,20-30,Female,United States of America,Yes,Education Loan,8%,Credit Union,None,Other,10000
+10/05/2023 10:14:31,Sheethal Jain,sheethaljainrajput1999@gmail.com,20-30,Female,United States of America,Yes,Education Loan,9%,Credit Union,None,Other,5000
+10/05/2023 10:17:15,Kiran Kumar,kirankumar2000@gmail.com,20-30,Male,United States of America,Yes,Education Loan,12%,Commericial,None,Other,9000
+10/05/2023 10:20:35,Saketh,reddysakethreddy.chappidi@sjsu.edu,20-30,Male,United States of America,Yes,Education Loan,10%,Commericial,Government Employee,Self Employed,50000
+12/05/2023 14:30:51,Ajay,ajay97@gmail.com,30-40,Male,United States of America,Yes,Education Loan,11%,Commericial,Private Employee,Self Employed,50000
+12/05/2023 14:31:45,Kumari,kumari25@gmail.com,40-50,Female,United States of America,Yes,Personal Loan,10%,Commericial,Government Employee,None,60000
+12/05/2023 14:32:34,Vani Kapoor,kapoorvani@gmail.com,20-30,Female,United States of America,Yes,Education Loan,11%,Commericial,Self Employed,Private Employee,10000
+12/05/2023 14:33:33,Joseph,josi99@gmail.com,30-40,Male,United States of America,Yes,Car Loan,10%,Commericial,Private Employee,None,30000
+12/05/2023 14:34:37,Catherine,cathy@gmail.com,30-40,Female,United States of America,Yes,Car Loan,10%,Credit Union,Private Employee,Other,30000
+12/05/2023 14:35:50,Nikhil Lingegouda,nikhilpadhamhuli988@gmail.com,20-30,Male,United States of America,Yes,Education Loan,9%,Credit Union,None,Other,10000
+12/05/2023 14:36:42,Keerti Yadav,keerti.princess121@gmail.com,20-30,Female,United States of America,Yes,Education Loan,12%,Commericial,Self Employed,None,12000
+12/05/2023 14:37:35,Suresh Kumar,suresh1998@gmail.com,30-40,Male,Outside Unites States,Yes,Personal Loan,12%,Commericial,Private Employee,None,15000
+12/05/2023 14:38:25,Pranitha Gowda,prani9886678906@gmail.com,20-30,Female,United States of America,Yes,Education Loan,11%,Commericial,Self Employed,None,12000
+12/05/2023 14:39:35,Nitish Kasargoud,nitishkasargoud@gmail.com,20-30,Male,United States of America,Yes,Education Loan,10%,Commericial,Self Employed,Private Employee,8000
+12/05/2023 14:40:32,Likitha KR,likitha.mandya1999@gmail.com,20-30,Female,United States of America,Yes,Education Loan,11%,Commericial,None,Other,0
+12/05/2023 14:41:18,Dinesh Karthik,dineshdini700@gmail.com,30-40,Male,Outside Unites States,Yes,Car Loan,10%,Commericial,Government Employee,None,15000
+12/05/2023 14:42:13,Suraj Krishna,surajsuri79900@gmail.com,20-30,Male,United States of America,Yes,Education Loan,12%,Commericial,Private Employee,None,14000
+12/05/2023 14:43:07,Geetha Kumari,geetha.kumari800@gmail.com,20-30,Prefer not to say,United States of America,No,,,Credit Union,Private Employee,None,20000
+12/05/2023 14:43:57,Swarna Ramesh,swarna.ramesh123456789@gmail.com,40-50,Female,Outside Unites States,Yes,Personal Loan,>12%,Credit Union,Private Employee,Other,15000
